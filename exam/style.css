@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    
+    
+}
+
+.owl-carousel{
+    margin: auto;
+    max-width: 1500px;
+    margin-top: 20%;
+}
